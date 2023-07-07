@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------------------------#
 import pandas as pd
 from mysql.connector import connect
-import logging  # Make sure this line is here
+import logging
 
 #----------------------------------------------------------------------------------------------#
 DB_SETTINGS = {
